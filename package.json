@@ -1,6 +1,6 @@
 {
   "name": "@jabro86/typedoc-plugin-internal-external",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Force a File or Reflection (symbol) to be @internal or @external",
   "main": "index.js",
   "scripts": {
